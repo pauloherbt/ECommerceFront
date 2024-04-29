@@ -1,0 +1,19 @@
+footer{
+    background-color: #3C9AF0;
+    color:white;
+    padding: 34px 70px;
+    text-align: center;
+}
+footer p{
+    font-weight: 400;
+    font-size: 16px;
+}
+.addres{
+    font-style: italic;
+}
+@media(min-width:600px){
+    footer{
+        display: flex;
+        justify-content: space-between;
+    }
+}

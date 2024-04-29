@@ -1,0 +1,11 @@
+.cc-ct{
+    border: 1px solid #3C9AF0;
+    border-radius: 12px;
+    background-color: #FFFFFF;
+    color: #3C9AF0;
+    padding: 25px 20px;
+}
+.cc-ct p{
+    font-weight: 400;
+    font-size: 16px;
+}

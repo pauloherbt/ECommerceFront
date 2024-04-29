@@ -1,0 +1,20 @@
+header{
+    background-color:#3C9AF0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 0;
+}
+.title{
+    color: #FFFFFF;
+    font-size: 20px;
+}
+
+@media(min-width:600px){
+    .title{
+        font-size: 24px;
+    }
+    header{
+        padding: 17px 0;
+    }
+}
